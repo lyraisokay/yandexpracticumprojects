@@ -1,2 +1,1 @@
-# yandexpracticumprojects
-yandexpracticumprojects
+Проекты Яндекс Практикум
